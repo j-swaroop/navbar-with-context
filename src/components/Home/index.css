@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.home-container-light{
+    background-color: #ffffff;
+    min-height: 90vh;
+}
+.home-container-dark{
+    background-color: #000000;
+    min-height: 90vh;
+}
+.responsive-container{
+    width: 90%;
+    max-width: 1140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 90vh;
+}
+.home-heading-light{
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 28px;
+    margin-top: 20px;
+}
+.home-heading-dark{
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    margin-top: 20px;
+}
+.home-img{
+    width: 200px;
+}

@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.notfound-container-light{
+    height: 90vh;
+    background-color: #ffffff;
+}
+.notfound-container-dark{
+    height: 90vh;
+    background-color: #000000;
+}
+.responsive-container{
+    width: 90%;
+    max-width: 1140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.notfound-img{
+    width: 200px;
+    margin-bottom: 20px;
+}
+.notfound-heading-light{
+    color: #201d1d;
+    font-size: 26px;
+    font-family: "Roboto";
+    text-align: center;
+}
+.notfound-heading-dark{
+    color: #ffffff;
+    font-size: 26px;
+    font-family: "Roboto";
+    text-align: center;
+}
+.notfound-text-light{
+    color: #8d8787;
+    font-size: 16px;
+    font-family: "Roboto";
+    text-align: center;
+}
+.notfound-text-dark{
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Roboto";
+    text-align: center;
+}
